@@ -1,7 +1,8 @@
 ## project specific ignores
 yolo-env/
 data/
-research
+research/
+artifacts/
 
 
 # Byte-compiled / optimized / DLL files
